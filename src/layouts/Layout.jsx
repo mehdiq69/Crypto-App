@@ -7,7 +7,7 @@ function Layout({ children }) {
       <header className={styles.header}>
         <h1>Crypto App</h1>
         <p>
-          <a href="https://google.com">Botostart</a> | React.js Full Course
+          <a href="https://google.com">Google.com</a>
         </p>
       </header>
       {children}
